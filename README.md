@@ -29,5 +29,5 @@ To view or modify the landing page, follow these steps:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/drone-fumigation-store.git
+   git clone https://github.com/hdeza/SkyFum.git
 
